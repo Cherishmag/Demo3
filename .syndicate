@@ -1,0 +1,9 @@
+name: Demo3
+locks: {}
+events: []
+latest_deploy: {}
+build_projects_mapping:
+  java: jsrc/main/java
+lambdas:
+  hello_world:
+    runtime: java
